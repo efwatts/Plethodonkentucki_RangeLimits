@@ -10,6 +10,7 @@ This repository is organized with scripts used to analyse the data used in this 
 Includes the ODMAP protocol and the script we used to apply 'SDMTune' to parameterize our models. <br />
 
 ### Popultation Genetic Structure <br />
+Includes the script used to apply 'tess3r' and sNMF using 'LEA,' the script used to apply 'conStruct,' and the DAPC script.
 
 ### Isolation by Distance and Isolation by Environment <br />
 
