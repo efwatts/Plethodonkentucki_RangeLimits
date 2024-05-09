@@ -10,8 +10,10 @@ This repository is organized with scripts used to analyse the data used in this 
 Includes the ODMAP protocol and the script we used to apply 'SDMTune' to parameterize our models. <br />
 
 ### Popultation Genetic Structure <br />
-Includes the script used to apply 'tess3r' and sNMF using 'LEA,' the script used to apply 'conStruct,' and the DAPC script.
+Includes the script used to apply 'tess3r' and sNMF using 'LEA,' the script used to apply 'conStruct,' the DAPC script, and the script employing the R package 'poppr' to quantify genetic variation.
 
 ### Isolation by Distance and Isolation by Environment <br />
+Contains the R scripts used to apply 'BEDASSLE' and apply the multiple matrix regression with randomization (MMRR).
 
 ### Gene Flow and Effective Population Size <br />
+Contains the parm files for the east and west clusters and the scripts used to call MIGRATE-N.
